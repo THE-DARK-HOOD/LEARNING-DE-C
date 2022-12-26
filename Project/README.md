@@ -8,7 +8,7 @@ in this course and build an end-to-end data pipeline.
 ## Problem description
 The project is related to Citi Bike trips. Where do Citi Bikers ride? When do they ride? How far do they go? 
 Which stations are most popular? What days of the week are most rides taken on? The provided data will help you discover 
-the answers to these questions and more.
+the answers to these questions and more!
 
 The key goals of the project are:
 * develop a data pipeline that will help to organize data processing in a batch manner (on a monthly basis);
